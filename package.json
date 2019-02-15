@@ -70,7 +70,7 @@
   "devDependencies": {
     "camo-purge": "^1.0.2",
     "eslint-plugin-html": "^5.0.0",
-    "eslint": "^5.12.0"
+    "eslint": "5.13.0"
   },
   "eslintConfig": {
     "env": {
